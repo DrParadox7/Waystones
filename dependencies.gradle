@@ -1,5 +1,5 @@
 // Add your dependencies here
 
 dependencies {
-    compile("com.github.GTNewHorizons:waila:1.5.18:dev")
+    compile("com.github.GTNewHorizons:waila:1.9.15:dev")
 }

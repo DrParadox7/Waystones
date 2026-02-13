@@ -30,6 +30,10 @@ buildscript {
             name = "jitpack"
             url = "https://jitpack.io"
         }
+        maven {
+            name = 'ajoberstar-backup'
+            url = 'https://ajoberstar.org/bintray-backup/'
+        }
     }
     dependencies {
         classpath 'com.github.GTNewHorizons:ForgeGradle:1.2.11'
